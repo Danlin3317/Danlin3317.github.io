@@ -11,3 +11,5 @@ combined-motor-imagery-and-action-observation
 how-to-do-combined-motor-imagery-and-action-observation
 example-video-actions
 feedback
+mental-practice-technique
+this-exercise-is-finger-extension-and-flexion.
