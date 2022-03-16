@@ -13,3 +13,7 @@ example-video-actions
 feedback
 mental-practice-technique
 this-exercise-is-finger-extension-and-flexion.
+action-observe
+action-observation-1
+motor-imagery-1
+action-observation-and-motor-imagery
